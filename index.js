@@ -124,4 +124,4 @@ function checkHighScore(){
   if(flag == 0){
     console.log(chalk.red("OOPS! You were NOT able to break the high score, play again to beat the high score! To play again, refresh the page!"));
   }
-},
+}
